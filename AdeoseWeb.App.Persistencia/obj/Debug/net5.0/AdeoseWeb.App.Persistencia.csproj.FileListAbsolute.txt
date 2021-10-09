@@ -1,0 +1,15 @@
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\obj\Debug\net5.0\AdeoseWeb.App.Persistencia.csproj.AssemblyReference.cache
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\obj\Debug\net5.0\AdeoseWeb.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\obj\Debug\net5.0\AdeoseWeb.App.Persistencia.AssemblyInfoInputs.cache
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\obj\Debug\net5.0\AdeoseWeb.App.Persistencia.AssemblyInfo.cs
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\obj\Debug\net5.0\AdeoseWeb.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\bin\Debug\net5.0\AdeoseWeb.App.Persistencia.deps.json
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\bin\Debug\net5.0\AdeoseWeb.App.Persistencia.dll
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\bin\Debug\net5.0\ref\AdeoseWeb.App.Persistencia.dll
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\bin\Debug\net5.0\AdeoseWeb.App.Persistencia.pdb
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\bin\Debug\net5.0\AdeoseWeb.App.Dominio.dll
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\bin\Debug\net5.0\AdeoseWeb.App.Dominio.pdb
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\obj\Debug\net5.0\AdeoseWeb.App.Persistencia.csproj.CopyComplete
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\obj\Debug\net5.0\AdeoseWeb.App.Persistencia.dll
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\obj\Debug\net5.0\ref\AdeoseWeb.App.Persistencia.dll
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Persistencia\obj\Debug\net5.0\AdeoseWeb.App.Persistencia.pdb

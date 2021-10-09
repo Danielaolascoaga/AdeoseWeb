@@ -1,0 +1,12 @@
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\obj\Debug\net5.0\AdeoseWeb.App.Dominio.csproj.AssemblyReference.cache
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\obj\Debug\net5.0\AdeoseWeb.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\obj\Debug\net5.0\AdeoseWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\obj\Debug\net5.0\AdeoseWeb.App.Dominio.AssemblyInfo.cs
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\obj\Debug\net5.0\AdeoseWeb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\bin\Debug\net5.0\AdeoseWeb.App.Dominio.deps.json
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\bin\Debug\net5.0\AdeoseWeb.App.Dominio.dll
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\bin\Debug\net5.0\ref\AdeoseWeb.App.Dominio.dll
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\bin\Debug\net5.0\AdeoseWeb.App.Dominio.pdb
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\obj\Debug\net5.0\AdeoseWeb.App.Dominio.dll
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\obj\Debug\net5.0\ref\AdeoseWeb.App.Dominio.dll
+C:\AdeoseWeb\AdeoseWeb.App\AdeoseWeb.App.Dominio\obj\Debug\net5.0\AdeoseWeb.App.Dominio.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AdeoseWeb.App.Persistencia/1.0.0": {
+        "dependencies": {
+          "AdeoseWeb.App.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "AdeoseWeb.App.Persistencia.dll": {}
+        }
+      },
+      "AdeoseWeb.App.Dominio/1.0.0": {
+        "runtime": {
+          "AdeoseWeb.App.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdeoseWeb.App.Persistencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdeoseWeb.App.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

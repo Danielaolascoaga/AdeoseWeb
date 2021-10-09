@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Frontend\\AdeoseWeb.App.Frontend.csproj": {}
+  },
+  "projects": {
+    "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Dominio\\AdeoseWeb.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Dominio\\AdeoseWeb.App.Dominio.csproj",
+        "projectName": "AdeoseWeb.App.Dominio",
+        "projectPath": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Dominio\\AdeoseWeb.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\LITO OLASCOAGEA\\.nuget\\packages\\",
+        "outputPath": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LITO OLASCOAGEA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Frontend\\AdeoseWeb.App.Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Frontend\\AdeoseWeb.App.Frontend.csproj",
+        "projectName": "AdeoseWeb.App.Frontend",
+        "projectPath": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Frontend\\AdeoseWeb.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\LITO OLASCOAGEA\\.nuget\\packages\\",
+        "outputPath": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Frontend\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LITO OLASCOAGEA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Dominio\\AdeoseWeb.App.Dominio.csproj": {
+                "projectPath": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Dominio\\AdeoseWeb.App.Dominio.csproj"
+              },
+              "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Persistencia\\AdeoseWeb.App.Persistencia.csproj": {
+                "projectPath": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Persistencia\\AdeoseWeb.App.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Persistencia\\AdeoseWeb.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Persistencia\\AdeoseWeb.App.Persistencia.csproj",
+        "projectName": "AdeoseWeb.App.Persistencia",
+        "projectPath": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Persistencia\\AdeoseWeb.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\LITO OLASCOAGEA\\.nuget\\packages\\",
+        "outputPath": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LITO OLASCOAGEA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Dominio\\AdeoseWeb.App.Dominio.csproj": {
+                "projectPath": "C:\\AdeoseWeb\\AdeoseWeb.App\\AdeoseWeb.App.Dominio\\AdeoseWeb.App.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿@page
+@model AdeoseWeb.App.Frontend.Pages.ListModel
+@{
+}
+<h1>Listado de Servicios</h1>
+<table class="table">
+    @foreach (var servicios in Model.ListServicios)
+    {
+      <tr>
+          <td>@servicios.Id</td>
+          <td>@servicios.Nombre</td>
+          <td>@servicios.TipoServicio</td>
+          <td>@servicios.Departamento</td>
+      </tr>  
+    }
+</table>    
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nuestros Servicios</title>
+</head>
+<body>
+  <section>
+                <article>
+                <p>Nuestros servicios van dirigidos a potencializar los proyectos  <br> y/o empresas de nuestros clientes, dentro de un entorno creciente y exigente, <br> las herramientas tecnologicas adecuadas, que les permitan ser compentitivos.<br>
+                 Los Servicios que Adeose ofrece, estan sujetos a normas de calidad <br> nuestra ética se ve reflejada en cada uno de ellos <br>. Cada uno de los productos y/o servicios que ofrecemos cuenta con su respectiva garantía; <br> <i>la duracion de la garantia depende del tipo de producto y servicio,</i> 
+                </p>
+                </article>
+  </section>              
+  <section>
+    
+  </section>
+
+
+</body>
+
+<footer>
+  Adeose 2021
+</footer>
+</html>
